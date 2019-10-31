@@ -16,9 +16,8 @@ mvn archetype:generate -DgroupId=com.hibernate.basics -DartifactId=hibernate-bas
 gradle init --type pom
 ```
 
-## Versions
-* Maven **3.5.2**
-* Gradle **5.0**
+## DB Scripts
+* Refer - **create.sql**, **drop.sql**, **select.sql** in [db-mysql](db-mysql)
 
 ## Examples
 * [Save - save()](src/test/java/com/hibernate/basics/Create.java)
