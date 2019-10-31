@@ -26,6 +26,9 @@ gradle init --type pom
 * [Get By Id - get()](src/test/java/com/hibernate/basics/Read.java)
 * [Update - update()](src/test/java/com/hibernate/basics/Update.java)
 * [Delete - delete()](src/test/java/com/hibernate/basics/Delete.java)
+* [Enum Mapping with Ordinal](src\main\java\com\hibernate\basics\model\Student.java)
+* [Enum Mapping with Value](src\main\java\com\hibernate\basics\model\Student.java)
+* [Date Mapping](src\main\java\com\hibernate\basics\model\Student.java)
 
 ## References
 * [https://www.baeldung.com/jpa-persisting-enums-in-jpa](https://www.baeldung.com/jpa-persisting-enums-in-jpa)
